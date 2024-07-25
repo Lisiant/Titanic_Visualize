@@ -1,5 +1,4 @@
-# Fisa3_Titanic_Visualize
-[우리FISA 3기 클라우드 엔지니어링] 타이타닉 데이터 시각화 프로젝트
+# [우리FISA 3기 클라우드 엔지니어링] 타이타닉 데이터 시각화 프로젝트
 ## 팀원
 |<img src="https://avatars.githubusercontent.com/u/104816148?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/79884688?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/90691610?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/127733525?v=4" width="100" height="100"/>|
 |:-:|:-:|:-:|:-:|
@@ -14,7 +13,7 @@ ELK Stack과 MySQL을 연동하여 타이타닉 생존자 데이터 시각화
 
 - 사용 데이터: https://www.kaggle.com/code/alexisbcook/titanic-tutorial
 - OS: Ubuntu 22.04 LTS Server
-- DB: MySQL 8.0.37-0ubuntu0.22.04.3 for Linux
+- DB: MySQL 8.0.37-ubuntu.22.04.3 for Linux
 - ELK Stack
 
 # 전처리
