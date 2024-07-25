@@ -2,7 +2,7 @@
 ## 팀원
 |<img src="https://avatars.githubusercontent.com/u/104816148?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/79884688?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/90691610?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/127733525?v=4" width="100" height="100"/>|
 |:-:|:-:|:-:|:-:|
-|[@hyleei](https://github.com/hyleei)|박장우<br/>[@Lisiant](https://github.com/Lisiant)|SeokCheol Lee<br/>[@SeokCheol-Lee](https://github.com/SeokCheol-Lee)|[@dkac0012](https://github.com/dkac0012)|
+|박현서<br/>[@hyleei](https://github.com/hyleei)|박장우<br/>[@Lisiant](https://github.com/Lisiant)|이석철<br/>[@SeokCheol-Lee](https://github.com/SeokCheol-Lee)|구동길<br/>[@dkac0012](https://github.com/dkac0012)|
 
 
 # 개요
