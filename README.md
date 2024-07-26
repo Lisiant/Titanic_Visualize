@@ -110,10 +110,8 @@ output {
 
 ![image](https://github.com/user-attachments/assets/c72446a9-2e74-4a11-8dd9-61327298b6f6)
 
-![image](https://github.com/user-attachments/assets/bb6ac07b-8bd6-4df2-9a8a-4e88729c4c0f)
-
-![image](https://github.com/user-attachments/assets/0c680af1-8e43-4463-a37f-f64c3dba31c5)
-
+![image](https://github.com/user-attachments/assets/bb6ac07b-8bd6-4df2-9a8a-4e88729c4c0f) | ![image](https://github.com/user-attachments/assets/0c680af1-8e43-4463-a37f-f64c3dba31c5)
+---|---|
 - 동승 가족수가 1~3명일 경우 생존률이 높다는 것을 확인하였습니다.
     - Sibsp, Parch에 대한 생존률을 따로 파악했을 때도 비슷한 경향을 보이는 것을 확인했습니다.
 - 동승 가족 수가 가장 적은 `0명`일 경우는 `1~3명`인 경우보다 생존률이 낮은 이유를 알아보기 위해 데이터를 시각화하여 파악하였습니다.
@@ -124,27 +122,28 @@ output {
 
 ### 연령대 비교
 
-![image](https://github.com/user-attachments/assets/a27692a9-ab77-45ce-bf84-340f35c881b2)
 
-![image](https://github.com/user-attachments/assets/ef0ee2af-88ca-4a77-8e06-86521563475e)
+![image](https://github.com/user-attachments/assets/a27692a9-ab77-45ce-bf84-340f35c881b2) | ![image](https://github.com/user-attachments/assets/ef0ee2af-88ca-4a77-8e06-86521563475e)
+---|---|
 
 - `family` 가 0인 경우는 20세 ~ 40세 연령 분포가 가장 많았습니다.
 - `familiy` 가 1~3인 경우는 0인 경우에 비해 0세 ~ 10세의 아동 인구와 60세 이상의 노령 인구 비율이 비교적 높았습니다.
 
 ### 성별 비교
 
-![image](https://github.com/user-attachments/assets/95ce03d8-db46-4374-9380-fcdcfb964653)
-
-![image](https://github.com/user-attachments/assets/39fc263a-8b1e-40b0-8d06-28607f4af602)
-
+![image](https://github.com/user-attachments/assets/95ce03d8-db46-4374-9380-fcdcfb964653) | ![image](https://github.com/user-attachments/assets/39fc263a-8b1e-40b0-8d06-28607f4af602)
+---|---|
 - `family` 가 0인 경우는 남성 596명, 여성 194명으로 남성 비율이 훨씬 높았습니다.
 - `family` 가 1~3인 경우는 남성 192명, 여성 202명으로 남녀 비율이 비슷하다는 것을 알았습니다.
 
 ### 좌석등급 비교
 
-![image](https://github.com/user-attachments/assets/62786597-4160-4700-818b-6279a9b68818)
 
-![image](https://github.com/user-attachments/assets/5f9278b9-08d9-4538-9230-e5ffd7903bd4)
+
+
+
+![image](https://github.com/user-attachments/assets/62786597-4160-4700-818b-6279a9b68818) | ![image](https://github.com/user-attachments/assets/5f9278b9-08d9-4538-9230-e5ffd7903bd4)
+---|---|
 
 - `family` 가 1~3인 경우 `family` 가 0인 경우에 비해 1등급 좌석의 비율이 상대적으로 높았습니다.
 
