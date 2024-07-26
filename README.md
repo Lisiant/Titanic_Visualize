@@ -138,10 +138,6 @@ output {
 
 ![image](https://github.com/user-attachments/assets/39fc263a-8b1e-40b0-8d06-28607f4af602)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/af80ad2b-3c8b-455e-9c12-6e42e9f7392a/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/eee474d6-8201-439e-8d79-54feb4e8c652/Untitled.png)
-
 - `family` 가 0인 경우는 남성 596명, 여성 194명으로 남성 비율이 훨씬 높았습니다.
 - `family` 가 1~3인 경우는 남성 192명, 여성 202명으로 남녀 비율이 비슷하다는 것을 알았습니다.
 
@@ -155,7 +151,7 @@ output {
 
 ### 전체 생존자 기준
 
-1. **연령대 및 성별**
+**연령대 및 성별**
 
 ![image](https://github.com/user-attachments/assets/7d68ef78-175e-4e70-b9f5-ba96e23113a5)
 
@@ -163,7 +159,7 @@ output {
 
 또한, 전체 생존자 중 여성의 비율이 높은 것으로 파악되었습니다.
 
-1. **좌석 등급**
+**좌석 등급**
 
 ![image](https://github.com/user-attachments/assets/33f5f103-3e32-4adc-9261-35b0ceca009d)
 
@@ -187,7 +183,7 @@ output {
 
 ### 시각화 분석
 
-1. **탑승지에 따른 승객의 수**
+**탑승지에 따른 승객의 수**
 
 ![1](https://github.com/user-attachments/assets/ee7b53b4-afe7-4ec2-ba16-61e921784136)
 
@@ -195,28 +191,31 @@ output {
 
 - **사우샘프턴**에서 탑승한 승객 수가 가장 많으며, 다음으로 **셰르부르**와 **퀸즈타운** 순입니다.
 - 구체적인 탑승객 수는 사우샘프턴이 782명, 셰르부르가 212명, 퀸즈타운이 50명입니다.
-1. **탑승지별 객실 등급**
+ **탑승지별 객실 등급**
 
 ![2](https://github.com/user-attachments/assets/e0e914ab-babc-48a6-99d8-400cd9b43948)
 
 !https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/4f363b87-231f-4718-953b-b7f32a82541f/Untitled.png
 
 - 전체 탑승객 중 1등석 승객 비율은 **셰르부르**에서 가장 높습니다.
-1. **탑승지별 생존률**
+- 
+**탑승지별 생존률**
 
 ![3](https://github.com/user-attachments/assets/867d27f2-fbca-43eb-aaec-077f31efa3c5)
 
 !https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/fd7fa96e-bdd8-4eca-a801-54c0ab81e79f/Untitled.png
 
 - 1등석 비율이 가장 높은 셰르부르에서 탑승한 승객들의 생존률이 가장 높습니다.
-1. **탑승지별 생존률 & 객실 등급별 생존률**
+- 
+**탑승지별 생존률 & 객실 등급별 생존률**
 
 ![4](https://github.com/user-attachments/assets/aa7089dc-3e72-45db-ad51-b3f7a5868ed1)
 
 !https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/c4bc358e-9412-41c4-8d2a-272ba204e781/Untitled.png
 
 - 탑승지별 생존률과 객실 등급별 생존률은 비슷한 양상을 보입니다. 탑승지는 왼쪽부터 셰르부르(C) → 퀸즈타운(Q) → 사우샘프턴(S) 순입니다.
-1. **승객 요금별 생존률**
+- 
+**승객 요금별 생존률**
 
 ![5](https://github.com/user-attachments/assets/099ed41b-7c40-46b4-a225-099c3202e7e6)
 
@@ -248,8 +247,6 @@ https://github.com/user-attachments/assets/f44b451d-8f63-4391-8391-3c1d8645ea60
 **성별에 따른 생존율**
 
 ![image](https://github.com/user-attachments/assets/f0b664a0-a7d5-4b41-a518-00ef7c8ab600)
-
-## 가설 2
 
 그래프를 보아 성별에 따른 생존률이 매우큰 폭으로 차이가 났다 → 여성 비율에 따라 생존자의 생존률이 높을 것이다. 
 
