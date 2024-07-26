@@ -128,9 +128,8 @@ output {
 
 ![image](https://github.com/user-attachments/assets/ef0ee2af-88ca-4a77-8e06-86521563475e)
 
-`family` 가 0인 경우는 20세 ~ 40세 연령 분포가 가장 많았고,
-
-`familiy` 가 1~3인 경우는 0인 경우에 비해 0세 ~ 10세의 아동 인구와 60세 이상의 노령 인구 비율이 비교적 높았습니다.
+- `family` 가 0인 경우는 20세 ~ 40세 연령 분포가 가장 많았습니다.
+- `familiy` 가 1~3인 경우는 0인 경우에 비해 0세 ~ 10세의 아동 인구와 60세 이상의 노령 인구 비율이 비교적 높았습니다.
 
 ### 성별 비교
 
@@ -187,39 +186,29 @@ output {
 
 ![1](https://github.com/user-attachments/assets/ee7b53b4-afe7-4ec2-ba16-61e921784136)
 
-!https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/49991391-573f-47b0-b59c-a6ff3aec076e/Untitled.png
-
 - **사우샘프턴**에서 탑승한 승객 수가 가장 많으며, 다음으로 **셰르부르**와 **퀸즈타운** 순입니다.
 - 구체적인 탑승객 수는 사우샘프턴이 782명, 셰르부르가 212명, 퀸즈타운이 50명입니다.
  **탑승지별 객실 등급**
 
 ![2](https://github.com/user-attachments/assets/e0e914ab-babc-48a6-99d8-400cd9b43948)
 
-!https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/4f363b87-231f-4718-953b-b7f32a82541f/Untitled.png
-
 - 전체 탑승객 중 1등석 승객 비율은 **셰르부르**에서 가장 높습니다.
-- 
+  
 **탑승지별 생존률**
 
 ![3](https://github.com/user-attachments/assets/867d27f2-fbca-43eb-aaec-077f31efa3c5)
 
-!https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/fd7fa96e-bdd8-4eca-a801-54c0ab81e79f/Untitled.png
-
 - 1등석 비율이 가장 높은 셰르부르에서 탑승한 승객들의 생존률이 가장 높습니다.
-- 
+
 **탑승지별 생존률 & 객실 등급별 생존률**
 
 ![4](https://github.com/user-attachments/assets/aa7089dc-3e72-45db-ad51-b3f7a5868ed1)
 
-!https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/c4bc358e-9412-41c4-8d2a-272ba204e781/Untitled.png
-
 - 탑승지별 생존률과 객실 등급별 생존률은 비슷한 양상을 보입니다. 탑승지는 왼쪽부터 셰르부르(C) → 퀸즈타운(Q) → 사우샘프턴(S) 순입니다.
-- 
+
 **승객 요금별 생존률**
 
 ![5](https://github.com/user-attachments/assets/099ed41b-7c40-46b4-a225-099c3202e7e6)
-
-!https://prod-files-secure.s3.us-west-2.amazonaws.com/599ab8a6-f1c0-476f-9872-378aa7a86093/7cd8b0a2-a9cf-4dc4-9bbf-053c7f2cb803/Untitled.png
 
 - 승객 요금이 높을수록 생존률이 증가하는 경향이 있습니다.
 - 이는 고급 객실(1등석) 승객이 상대적으로 더 높은 생존율을 보이는 것과 일치합니다.
@@ -242,7 +231,6 @@ output {
 
 ![image](https://github.com/user-attachments/assets/80fb3b41-47e1-4df4-8a7b-c826f83f73bd)
 
-https://github.com/user-attachments/assets/f44b451d-8f63-4391-8391-3c1d8645ea60
 
 **성별에 따른 생존율**
 
