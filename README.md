@@ -8,7 +8,7 @@ ELK Stack과 MySQL을 연동하여 타이타닉 생존자 데이터를 시각화
 
 | <img src="https://avatars.githubusercontent.com/u/104816148?v=4" width="100" height="100"/> | <img src="https://avatars.githubusercontent.com/u/79884688?v=4" width="100" height="100"/> | <img src="https://avatars.githubusercontent.com/u/90691610?v=4" width="100" height="100"/> | <img src="https://avatars.githubusercontent.com/u/127733525?v=4" width="100" height="100"/> |
 | --- | --- | --- | --- |
-| 박현서<br/>https://github.com/hyleei | 박장우<br/>https://github.com/Lisiant | 이석철<br/>https://github.com/SeokCheol-Lee | 구동길<br/>https://github.com/dkac0012 |
+| 박현서<br/>[@hyleei](https://github.com/hyleei) | 박장우<br/>[@lisiant](https://github.com/Lisiant) | 이석철<br/>[@SeokCheol-Lee](https://github.com/SeokCheol-Lee) | 구동길<br/>[@dkac0012](https://github.com/dkac0012) |
 
 ## ⚙️ 개발 환경
 
