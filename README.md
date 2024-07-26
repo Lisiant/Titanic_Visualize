@@ -16,6 +16,20 @@ ELK Stack과 MySQL을 연동하여 타이타닉 생존자 데이터 시각화
 - DB: MySQL 8.0.37-ubuntu.22.04.3 for Linux
 - ELK Stack
 
+## Data Dictionary
+|Name|description|
+|-----|---|
+|Survived|0 = 사망, 1 = 생존|
+|Pclass|1 = 1등석, 2 = 2등석, 3 = 3등석|
+|Gender|male = 남성, female = 여성|
+|Age|나이|
+|SibSp|타이타닉 호에 동승한 자매/배우자의 수|
+|Parch|타이타닉 호에 동승한 부모/자식의 수|
+|Ticket|티켓 번호|
+|Embarked|탑승지, C = 셰르부르, Q = 퀸즈타운, S = 사우샘프턴|
+|Cabin|방 호수|
+|Fare|승객 요금|
+
 # 전처리
 
 ### 결측치 대체
