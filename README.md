@@ -15,7 +15,7 @@ ELK Stack과 MySQL을 연동하여 타이타닉 생존자 데이터를 시각화
 - 사용 데이터: https://www.kaggle.com/code/alexisbcook/titanic-tutorial
 - OS: Ubuntu 22.04 LTS Server
 - DB: MySQL 8.0.37-ubuntu.22.04.3 for Linux
-- ELK Stack 7.17.22
+- ELK Stack
 
 ## 📖 Data Dictionary
 
