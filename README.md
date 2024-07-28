@@ -17,6 +17,11 @@ ELK Stack과 MySQL을 연동하여 타이타닉 생존자 데이터를 시각화
 - DB: MySQL 8.0.37-ubuntu.22.04.3 for Linux
 - ELK Stack
 
+## ⭐ ELK Stack과 MySQL 연동 과정
+
+별도의 페이지로 해당 내용을 기술하였습니다.
+> https://halved-snail-4a2.notion.site/ELK-Stack-MySQL-04ad20887b7247139e82f8084c612c24
+
 ## 📖 Data Dictionary
 
 | Name | description |
